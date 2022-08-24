@@ -98,7 +98,7 @@ pyreadline==2.1
 pyrsistent 
 python-dateutil 
 pytz==2021.3
-pywin32==228
+pywin32
 pywinpty 
 PyYAML==6.0
 pyzmq 
