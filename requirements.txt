@@ -98,7 +98,6 @@ pyreadline
 pyrsistent 
 python-dateutil 
 pytz
-pywin32
 pywinpty 
 PyYAML
 pyzmq 
