@@ -98,7 +98,7 @@ pyreadline
 pyrsistent 
 python-dateutil 
 pytz
-pywin==302
+pywin
 pywinpty
 PyYAML
 pyzmq 
